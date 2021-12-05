@@ -33,7 +33,7 @@ var eating_sound;
 var air;
 var canW;
 var canH;
-var 
+
 function preload()
 {
   bg_img = loadImage('background.png');
